@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my weekends watching live gaming streams on Youtube but I don't play any games.
 
-You can check out my Portfoio at [https://portfolio-pranitnaik43.netlify.app/](https://portfolio-pranitnaik43.netlify.app/)
+You can check out my Portfolio at [https://portfolio-pranitnaik43.netlify.app/](https://portfolio-pranitnaik43.netlify.app/)
 
 <!-- stats and languages -->
 <img align=left width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitnaik43&layout=compact" />

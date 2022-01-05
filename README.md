@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on LetsChat (A Chat Application)
 - 🌱 I’m currently learning React Native and AWS
-- 🤔 I’m looking for help with 
-- 💬 Ask me about DSA
+- 💬 Ask me about Data Structures and Algorithm
 - 📫 How to reach me: Email: pranitnaik43@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend a lot of time on Youtube watching live gaming streams but I don't play any games.
+- ⚡ Fun fact: I spend my weekends watching live gaming streams on Youtube but I don't play any games.
 
